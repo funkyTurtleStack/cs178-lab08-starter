@@ -1,4 +1,5 @@
 # CS178 - Lab 8 Starter
+# Lab 8 - Braedon Stapelman
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
